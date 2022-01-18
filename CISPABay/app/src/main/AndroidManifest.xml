@@ -2,10 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="saarland.cispa.trust.cispabay">
 
-    <queries>
-        <package android:name="saarland.cispa.trust.serviceapp" />
-    </queries>
-
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="saarland.cispa.trust.permission.BIND_TO_SERVICE"/>
 

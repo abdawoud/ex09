@@ -145,7 +145,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions,
                                            @NonNull int[] grantResults) {
-        // do nothing
+        // @TODO : IMPLEMENT
     }
 
     /**
@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity {
      * @return Location
      */
     public Location getLastKnownLocation() {
-        // do nothing
+        // @TODO : IMPLEMENT
         return null;
     }
 
@@ -170,12 +170,12 @@ public class MainActivity extends AppCompatActivity {
      * @return boolean
      */
     public boolean hasPermissionToTakePhotoAndStoreInExternalStorage() {
-        // do nothing
+        // @TODO : IMPLEMENT
         return false;
     }
 
     public static void sendNewItemNotification(MainActivity parentActivity, int itemId) {
-        // do nothing
+        // @TODO : IMPLEMENT
     }
 
     /**
